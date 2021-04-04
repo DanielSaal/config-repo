@@ -1,1 +1,8 @@
-message: "Github"
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: customer
+      username: root
+      password: root
